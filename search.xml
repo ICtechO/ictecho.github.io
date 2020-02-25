@@ -207,10 +207,6 @@
       
         <tags>
             
-            <tag> pop </tag>
-            
-            <tag> python </tag>
-            
             <tag> append </tag>
             
             <tag> del </tag>
@@ -218,6 +214,10 @@
             <tag> insert </tag>
             
             <tag> len </tag>
+            
+            <tag> pop </tag>
+            
+            <tag> python </tag>
             
             <tag> remove </tag>
             
@@ -279,13 +279,13 @@
       
         <tags>
             
-            <tag> clear </tag>
-            
-            <tag> dictionary </tag>
-            
             <tag> pop </tag>
             
             <tag> python </tag>
+            
+            <tag> clear </tag>
+            
+            <tag> dictionary </tag>
             
             <tag> update </tag>
             
