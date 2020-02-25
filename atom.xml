@@ -221,6 +221,10 @@
       <category term="python" scheme="http://www.ictech.xyz/categories/python/"/>
     
     
+      <category term="pop" scheme="http://www.ictech.xyz/tags/pop/"/>
+    
+      <category term="python" scheme="http://www.ictech.xyz/tags/python/"/>
+    
       <category term="append" scheme="http://www.ictech.xyz/tags/append/"/>
     
       <category term="del" scheme="http://www.ictech.xyz/tags/del/"/>
@@ -228,10 +232,6 @@
       <category term="insert" scheme="http://www.ictech.xyz/tags/insert/"/>
     
       <category term="len" scheme="http://www.ictech.xyz/tags/len/"/>
-    
-      <category term="pop" scheme="http://www.ictech.xyz/tags/pop/"/>
-    
-      <category term="python" scheme="http://www.ictech.xyz/tags/python/"/>
     
       <category term="remove" scheme="http://www.ictech.xyz/tags/remove/"/>
     
@@ -297,13 +297,13 @@
       <category term="python" scheme="http://www.ictech.xyz/categories/python/"/>
     
     
-      <category term="pop" scheme="http://www.ictech.xyz/tags/pop/"/>
-    
-      <category term="python" scheme="http://www.ictech.xyz/tags/python/"/>
-    
       <category term="clear" scheme="http://www.ictech.xyz/tags/clear/"/>
     
       <category term="dictionary" scheme="http://www.ictech.xyz/tags/dictionary/"/>
+    
+      <category term="pop" scheme="http://www.ictech.xyz/tags/pop/"/>
+    
+      <category term="python" scheme="http://www.ictech.xyz/tags/python/"/>
     
       <category term="update" scheme="http://www.ictech.xyz/tags/update/"/>
     
